@@ -9,7 +9,7 @@
 #
 # Requirements:
 #   - Python3: https://www.python.org/downloads/
-#   - Windows, Linux, and probably Mac
+#   - Compatible with Windows and Linux
 # Usage: 
 #   - In powershell or any shell, enter:
 #       python anki_deck_filter.py deck_that_should_be_filtered.apkg wordlist.txt "new apkg name of your choice"
