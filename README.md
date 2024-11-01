@@ -4,7 +4,7 @@
 
 Sometimes you like a deck, but you only want to study the first 200 core words or so. This script extracts those cards into a new deck, filtering based on a wordlist you provide. It's essentially the same deck, but with only the words of your choice (assuming the words in your wordlist are in the provided deck). 
 
-The deck needs to be from [Anki 2](https://apps.ankiweb.net/)
+The deck needs to be from [Anki 2](https://apps.ankiweb.net/).
 
 ## Requirements
 
