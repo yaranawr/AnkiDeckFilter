@@ -120,8 +120,9 @@ def process_file(fields, media_data, type, filtered_files, filtered_files_in_fol
         filtered_file_names = []
         for file in files:
             file_match = re.search(file_name_pattern, file)
-            filtered_file_names.append(file_match.group(1))
-    
+            if file_match is not None:
+                filtered_file_names.append(file_match.group(1))
+            
         for file_name in filtered_file_names:
             if file_name in media_data.values():
                 for key, value in media_data.items():
