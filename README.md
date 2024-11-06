@@ -9,7 +9,7 @@ The deck needs to be from [Anki 2](https://apps.ankiweb.net/).
 ## Requirements
 
 * Python 3
-* Compatible with Windows and Linux
+* Windows, Linux or Mac
 
 ## Usage
 
